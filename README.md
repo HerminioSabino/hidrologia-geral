@@ -1,7 +1,7 @@
 # Hidrologia Geral
 
 ## Material referente a disciplina Hidrologia Geral 📚
-### Tópicos abortados
+### Tópicos abordados
  - Delimitação de Bacias Hidrográficas com QGIS
 
 Autor:
