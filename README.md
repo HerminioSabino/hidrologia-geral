@@ -6,6 +6,8 @@
  - Caracterização Morfométrica
 
 
+Os vídeos pode ser acessado [AQUI](https://www.youtube.com/c/hsgeotec)
+
 Autor:
 Hermínio Sabino 👨‍🏫
 
