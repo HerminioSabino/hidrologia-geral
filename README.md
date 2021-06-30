@@ -9,7 +9,7 @@
  - Layout de Impressão
 
 
-Os vídeos pode ser acessado [AQUI](https://www.youtube.com/c/hsgeotec)
+Os vídeos estão disponíveis no canal HS geotec no [YouTube](https://www.youtube.com/c/hsgeotec)
 
 Autor:
 Hermínio Sabino 👨‍🏫
