@@ -14,7 +14,8 @@
  - Arquivos vetoriais
     1. Arquivos vetoriais
     2. Planilhas de preenchimento de características morfométrica
-    3. 
+    3. Arquivos Raster - Modelo Digital de Elevação
+    4. Apresentação explanando sobre os índices morfométricos
 
 Os vídeos estão disponíveis no canal HS geotec no [YouTube](https://www.youtube.com/c/hsgeotec)
 
